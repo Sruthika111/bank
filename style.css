@@ -1,0 +1,29 @@
+
+        /* *{
+            margin: 0px;
+            padding: 4px;
+        } */
+h1{
+    background-color: rgba(154, 166, 170, 0.796);
+    text-align: center;
+}
+h3{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+#root{
+    background-color:lavender;
+    text-align: center;
+}
+#root button{
+    background-color:lightcoral;
+    color: white;
+    border-color: blanchedalmond;
+}
+button{
+    text-align: center;
+}
+#showUser{
+    text-align: center;
+}
